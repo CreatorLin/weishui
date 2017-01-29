@@ -1,4 +1,4 @@
-//v1.7
+﻿//v1.7
 // Flash Player Version Detection
 // Detect Client Browser type
 // Copyright 2005-2007 Adobe Systems Incorporated.  All rights reserved.

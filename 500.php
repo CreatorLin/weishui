@@ -1,4 +1,4 @@
-<!-- PHP Wrapper - 500 Server Error -->
+﻿<!-- PHP Wrapper - 500 Server Error -->
 <html><head><title>500 Server Error</title></head>
 <body bgcolor=white>
 <h1>500 Server Error</h1>
