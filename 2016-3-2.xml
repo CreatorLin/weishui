@@ -1,0 +1,1936 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Author</Author>
+  <LastAuthor>OEM</LastAuthor>
+  <Created>2016-03-02T12:15:11Z</Created>
+  <LastSaved>2016-03-02T04:59:59Z</LastSaved>
+  <Company>CMT</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12825</WindowHeight>
+  <WindowWidth>18180</WindowWidth>
+  <WindowTopX>480</WindowTopX>
+  <WindowTopY>30</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="新細明體" x:CharSet="136" x:Family="Roman" ss:Size="12"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Registration">
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="154" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
+   <Row ss:AutoFitHeight="0" ss:Height="33">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">項次</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">報名序號</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">報名時間</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IP位址</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">姓名</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">EMAIL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">連絡電話</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">服務單位</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">參加日期</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">管理者註記事項</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">50</Data></Cell>
+    <Cell><Data ss:Type="String">3488512</Data></Cell>
+    <Cell><Data ss:Type="String">12-27 09:32</Data></Cell>
+    <Cell><Data ss:Type="String">110.28.80.181</Data></Cell>
+    <Cell><Data ss:Type="String">黃美惠</Data></Cell>
+    <Cell><Data ss:Type="String">hmh615@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0931683727</Data></Cell>
+    <Cell><Data ss:Type="String">文化大學日文系</Data></Cell>
+    <Cell><Data ss:Type="String">10月8日&#45;-講師：蔣智揚(日語)</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">12</Data></Cell>
+    <Cell><Data ss:Type="String">3464423</Data></Cell>
+    <Cell><Data ss:Type="String">12-20 00:31</Data></Cell>
+    <Cell><Data ss:Type="String">123.193.184.212</Data></Cell>
+    <Cell><Data ss:Type="String">洪翔</Data></Cell>
+    <Cell><Data ss:Type="String">linushung0325@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0979795878</Data></Cell>
+    <Cell><Data ss:Type="String">智誠科技</Data></Cell>
+    <Cell><Data ss:Type="String">11月12日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">14</Data></Cell>
+    <Cell><Data ss:Type="String">3464425</Data></Cell>
+    <Cell><Data ss:Type="String">12-20 00:32</Data></Cell>
+    <Cell><Data ss:Type="String">123.193.184.212</Data></Cell>
+    <Cell><Data ss:Type="String">何怡珊</Data></Cell>
+    <Cell><Data ss:Type="String">yisanho@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0922935756</Data></Cell>
+    <Cell><Data ss:Type="String">家管</Data></Cell>
+    <Cell><Data ss:Type="String">11月12日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">51</Data></Cell>
+    <Cell><Data ss:Type="String">3490577</Data></Cell>
+    <Cell><Data ss:Type="String">12-28 09:46</Data></Cell>
+    <Cell><Data ss:Type="String">39.8.91.135</Data></Cell>
+    <Cell><Data ss:Type="String">莊淳茹</Data></Cell>
+    <Cell><Data ss:Type="String">eshanachuang@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0921606506</Data></Cell>
+    <Cell><Data ss:Type="String">依夏那工作室</Data></Cell>
+    <Cell><Data ss:Type="String">11月12日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">3456904</Data></Cell>
+    <Cell><Data ss:Type="String">12-17 13:55</Data></Cell>
+    <Cell><Data ss:Type="String">36.229.139.87</Data></Cell>
+    <Cell><Data ss:Type="String">岳宏正</Data></Cell>
+    <Cell><Data ss:Type="String">alex.yueh@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0937818675</Data></Cell>
+    <Cell><Data ss:Type="String">自由業</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">10</Data></Cell>
+    <Cell><Data ss:Type="String">3464375</Data></Cell>
+    <Cell><Data ss:Type="String">12-20 00:01</Data></Cell>
+    <Cell><Data ss:Type="String">61.230.145.166</Data></Cell>
+    <Cell><Data ss:Type="String">林建谷</Data></Cell>
+    <Cell><Data ss:Type="String">tina.fen.huang@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0935690662</Data></Cell>
+    <Cell><Data ss:Type="String">服務業</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">100</Data></Cell>
+    <Cell><Data ss:Type="String">3533566</Data></Cell>
+    <Cell><Data ss:Type="String">01-08 22:32</Data></Cell>
+    <Cell><Data ss:Type="String">220.133.8.116</Data></Cell>
+    <Cell><Data ss:Type="String">Olivia Lee</Data></Cell>
+    <Cell><Data ss:Type="String">kailee@cht.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0933990520</Data></Cell>
+    <Cell><Data ss:Type="String">cht</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">15</Data></Cell>
+    <Cell><Data ss:Type="String">3464572</Data></Cell>
+    <Cell><Data ss:Type="String">12-20 08:38</Data></Cell>
+    <Cell><Data ss:Type="String">124.8.75.174</Data></Cell>
+    <Cell><Data ss:Type="String">吳淑娥</Data></Cell>
+    <Cell><Data ss:Type="String">theresawu363@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0958788363</Data></Cell>
+    <Cell><Data ss:Type="String">1111人力銀行</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">16</Data></Cell>
+    <Cell><Data ss:Type="String">3464573</Data></Cell>
+    <Cell><Data ss:Type="String">12-20 08:39</Data></Cell>
+    <Cell><Data ss:Type="String">101.10.52.99</Data></Cell>
+    <Cell><Data ss:Type="String">王伶俐</Data></Cell>
+    <Cell><Data ss:Type="String">C1954@jjes.tp.edu.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0920180175</Data></Cell>
+    <Cell><Data ss:Type="String">中正國小退休</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">17</Data></Cell>
+    <Cell><Data ss:Type="String">3464574</Data></Cell>
+    <Cell><Data ss:Type="String">12-20 08:40</Data></Cell>
+    <Cell><Data ss:Type="String">124.8.75.174</Data></Cell>
+    <Cell><Data ss:Type="String">吳淑娥</Data></Cell>
+    <Cell><Data ss:Type="String">theresawu363@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0958788363</Data></Cell>
+    <Cell><Data ss:Type="String">1111人力銀行</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">18</Data></Cell>
+    <Cell><Data ss:Type="String">3464580</Data></Cell>
+    <Cell><Data ss:Type="String">12-20 08:44</Data></Cell>
+    <Cell><Data ss:Type="String">180.217.158.15</Data></Cell>
+    <Cell><Data ss:Type="String">陳國元</Data></Cell>
+    <Cell><Data ss:Type="String">williechen2009@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0919276000</Data></Cell>
+    <Cell><Data ss:Type="String">資策會</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">3461810</Data></Cell>
+    <Cell><Data ss:Type="String">12-18 19:51</Data></Cell>
+    <Cell><Data ss:Type="String">49.158.66.110</Data></Cell>
+    <Cell><Data ss:Type="String">蔡佩娥</Data></Cell>
+    <Cell><Data ss:Type="String">petratsai@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0918205010</Data></Cell>
+    <Cell><Data ss:Type="String">台北市立中正高中</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">20</Data></Cell>
+    <Cell><Data ss:Type="String">3469242</Data></Cell>
+    <Cell><Data ss:Type="String">12-21 15:54</Data></Cell>
+    <Cell><Data ss:Type="String">163.24.92.253</Data></Cell>
+    <Cell><Data ss:Type="String">林麗美</Data></Cell>
+    <Cell><Data ss:Type="String">beauty99999me@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0910833406</Data></Cell>
+    <Cell><Data ss:Type="String">屏東縣東隆國小</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">21</Data></Cell>
+    <Cell><Data ss:Type="String">3471629</Data></Cell>
+    <Cell><Data ss:Type="String">12-22 10:38</Data></Cell>
+    <Cell><Data ss:Type="String">180.204.167.57</Data></Cell>
+    <Cell><Data ss:Type="String">邱嬿諭</Data></Cell>
+    <Cell><Data ss:Type="String">nero.chiu@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0935524029</Data></Cell>
+    <Cell><Data ss:Type="String">文山國小</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">23</Data></Cell>
+    <Cell><Data ss:Type="String">3475532</Data></Cell>
+    <Cell><Data ss:Type="String">12-22 23:46</Data></Cell>
+    <Cell><Data ss:Type="String">61.230.173.232</Data></Cell>
+    <Cell><Data ss:Type="String">周怡萱</Data></Cell>
+    <Cell><Data ss:Type="String">wuh0612@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0910654368</Data></Cell>
+    <Cell><Data ss:Type="String">仁寶電腦</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">24</Data></Cell>
+    <Cell><Data ss:Type="String">3475574</Data></Cell>
+    <Cell><Data ss:Type="String">12-23 00:03</Data></Cell>
+    <Cell><Data ss:Type="String">223.136.143.40</Data></Cell>
+    <Cell><Data ss:Type="String">周敏惠</Data></Cell>
+    <Cell><Data ss:Type="String">mindychou@yahoo.com</Data></Cell>
+    <Cell><Data ss:Type="String">0958108831</Data></Cell>
+    <Cell><Data ss:Type="String">家管</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">25</Data></Cell>
+    <Cell><Data ss:Type="String">3476207</Data></Cell>
+    <Cell><Data ss:Type="String">12-23 09:46</Data></Cell>
+    <Cell><Data ss:Type="String">123.192.239.27</Data></Cell>
+    <Cell><Data ss:Type="String">羅永青</Data></Cell>
+    <Cell><Data ss:Type="String">rosslyc@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0912601820</Data></Cell>
+    <Cell><Data ss:Type="String">台灣自由行協會</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">26</Data></Cell>
+    <Cell><Data ss:Type="String">3476324</Data></Cell>
+    <Cell><Data ss:Type="String">12-23 10:21</Data></Cell>
+    <Cell><Data ss:Type="String">223.140.179.182</Data></Cell>
+    <Cell><Data ss:Type="String">施瑞堂</Data></Cell>
+    <Cell><Data ss:Type="String">n120192.srt@msa.hinet.net</Data></Cell>
+    <Cell><Data ss:Type="String">0921436213</Data></Cell>
+    <Cell><Data ss:Type="String">雄獅旅行社</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">27</Data></Cell>
+    <Cell><Data ss:Type="String">3476783</Data></Cell>
+    <Cell><Data ss:Type="String">12-23 12:02</Data></Cell>
+    <Cell><Data ss:Type="String">1.162.252.250</Data></Cell>
+    <Cell><Data ss:Type="String">陳美</Data></Cell>
+    <Cell><Data ss:Type="String">chen.miriam@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0933085727</Data></Cell>
+    <Cell><Data ss:Type="String">自由業自由業</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">3</Data></Cell>
+    <Cell><Data ss:Type="String">3461948</Data></Cell>
+    <Cell><Data ss:Type="String">12-18 20:44</Data></Cell>
+    <Cell><Data ss:Type="String">124.11.185.74</Data></Cell>
+    <Cell><Data ss:Type="String">高培瀚</Data></Cell>
+    <Cell><Data ss:Type="String">pho26810@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0928081952</Data></Cell>
+    <Cell><Data ss:Type="String">soho</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">30</Data></Cell>
+    <Cell><Data ss:Type="String">3480549</Data></Cell>
+    <Cell><Data ss:Type="String">12-24 10:11</Data></Cell>
+    <Cell><Data ss:Type="String">223.136.71.143</Data></Cell>
+    <Cell><Data ss:Type="String">邱雪亮</Data></Cell>
+    <Cell><Data ss:Type="String">shueh.liang@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0910928889</Data></Cell>
+    <Cell><Data ss:Type="String">金亮工作室</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">34</Data></Cell>
+    <Cell><Data ss:Type="String">3481795</Data></Cell>
+    <Cell><Data ss:Type="String">12-24 15:59</Data></Cell>
+    <Cell><Data ss:Type="String">202.14.5.23</Data></Cell>
+    <Cell><Data ss:Type="String">郭珍君</Data></Cell>
+    <Cell><Data ss:Type="String">kuo3_99@yahoo.com</Data></Cell>
+    <Cell><Data ss:Type="String">0909113433</Data></Cell>
+    <Cell><Data ss:Type="String">金融業</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">36</Data></Cell>
+    <Cell><Data ss:Type="String">3481929</Data></Cell>
+    <Cell><Data ss:Type="String">12-24 16:41</Data></Cell>
+    <Cell><Data ss:Type="String">42.66.30.231</Data></Cell>
+    <Cell><Data ss:Type="String">詹正煌</Data></Cell>
+    <Cell><Data ss:Type="String">bravocch@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0955466137</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">4</Data></Cell>
+    <Cell><Data ss:Type="String">3461962</Data></Cell>
+    <Cell><Data ss:Type="String">12-18 20:49</Data></Cell>
+    <Cell><Data ss:Type="String">124.11.185.74</Data></Cell>
+    <Cell><Data ss:Type="String">李祈秀</Data></Cell>
+    <Cell><Data ss:Type="String">a2828762@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0910873808</Data></Cell>
+    <Cell><Data ss:Type="String">中興保全</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">41</Data></Cell>
+    <Cell><Data ss:Type="String">3484151</Data></Cell>
+    <Cell><Data ss:Type="String">12-25 11:03</Data></Cell>
+    <Cell><Data ss:Type="String">202.14.5.23</Data></Cell>
+    <Cell><Data ss:Type="String">高欣瑜</Data></Cell>
+    <Cell><Data ss:Type="String">newfishkao@yahoo.com</Data></Cell>
+    <Cell><Data ss:Type="String">0927472230</Data></Cell>
+    <Cell><Data ss:Type="String">保險業</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">42</Data></Cell>
+    <Cell><Data ss:Type="String">3484157</Data></Cell>
+    <Cell><Data ss:Type="String">12-25 11:04</Data></Cell>
+    <Cell><Data ss:Type="String">202.14.5.23</Data></Cell>
+    <Cell><Data ss:Type="String">劉政</Data></Cell>
+    <Cell><Data ss:Type="String">newfishkao@yahoo.com</Data></Cell>
+    <Cell><Data ss:Type="String">0927472230</Data></Cell>
+    <Cell><Data ss:Type="String">自由業</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">43</Data></Cell>
+    <Cell><Data ss:Type="String">3484273</Data></Cell>
+    <Cell><Data ss:Type="String">12-25 11:36</Data></Cell>
+    <Cell><Data ss:Type="String">140.112.158.201</Data></Cell>
+    <Cell><Data ss:Type="String">黃仕龍</Data></Cell>
+    <Cell><Data ss:Type="String">huang5902@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0920215521</Data></Cell>
+    <Cell><Data ss:Type="String">工</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">44</Data></Cell>
+    <Cell><Data ss:Type="String">3484348</Data></Cell>
+    <Cell><Data ss:Type="String">12-25 11:56</Data></Cell>
+    <Cell><Data ss:Type="String">36.226.84.19</Data></Cell>
+    <Cell><Data ss:Type="String">林秀貞</Data></Cell>
+    <Cell><Data ss:Type="String">lin8866448@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0934196115</Data></Cell>
+    <Cell><Data ss:Type="String">導遊</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">45</Data></Cell>
+    <Cell><Data ss:Type="String">3484453</Data></Cell>
+    <Cell><Data ss:Type="String">12-25 12:24</Data></Cell>
+    <Cell><Data ss:Type="String">114.136.113.55</Data></Cell>
+    <Cell><Data ss:Type="String">姬維娜</Data></Cell>
+    <Cell><Data ss:Type="String">chinanamama@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0935308898</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String">3464171</Data></Cell>
+    <Cell><Data ss:Type="String">12-19 22:47</Data></Cell>
+    <Cell><Data ss:Type="String">106.104.84.97</Data></Cell>
+    <Cell><Data ss:Type="String">邱垂碧</Data></Cell>
+    <Cell><Data ss:Type="String">chen8613@mail.clhs.tyc.edu.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0937810086</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">6</Data></Cell>
+    <Cell><Data ss:Type="String">3464186</Data></Cell>
+    <Cell><Data ss:Type="String">12-19 22:49</Data></Cell>
+    <Cell><Data ss:Type="String">106.104.84.97</Data></Cell>
+    <Cell><Data ss:Type="String">陳秀珠</Data></Cell>
+    <Cell><Data ss:Type="String">chen8613@mail.clhs.tyc.edu.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0937119173</Data></Cell>
+    <Cell><Data ss:Type="String">中大壢中</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">61</Data></Cell>
+    <Cell><Data ss:Type="String">3493775</Data></Cell>
+    <Cell><Data ss:Type="String">12-28 20:21</Data></Cell>
+    <Cell><Data ss:Type="String">49.214.130.77</Data></Cell>
+    <Cell><Data ss:Type="String">廖俊嘉</Data></Cell>
+    <Cell><Data ss:Type="String">modseventeen@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0982110517</Data></Cell>
+    <Cell><Data ss:Type="String">104人力銀行</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">64</Data></Cell>
+    <Cell><Data ss:Type="String">3499259</Data></Cell>
+    <Cell><Data ss:Type="String">12-30 10:47</Data></Cell>
+    <Cell><Data ss:Type="String">123.194.196.190</Data></Cell>
+    <Cell><Data ss:Type="String">陳嬿安</Data></Cell>
+    <Cell><Data ss:Type="String">a0960370308@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0960370308</Data></Cell>
+    <Cell><Data ss:Type="String">台灣大車隊司機</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">7</Data></Cell>
+    <Cell><Data ss:Type="String">3464346</Data></Cell>
+    <Cell><Data ss:Type="String">12-19 23:51</Data></Cell>
+    <Cell><Data ss:Type="String">115.43.78.137</Data></Cell>
+    <Cell><Data ss:Type="String">劉青琳</Data></Cell>
+    <Cell><Data ss:Type="String">aren.liu@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0922364199</Data></Cell>
+    <Cell><Data ss:Type="String">裕隆汽車</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">71</Data></Cell>
+    <Cell><Data ss:Type="String">3505131</Data></Cell>
+    <Cell><Data ss:Type="String">01-01 10:53</Data></Cell>
+    <Cell><Data ss:Type="String">180.218.38.14</Data></Cell>
+    <Cell><Data ss:Type="String">駱美子</Data></Cell>
+    <Cell><Data ss:Type="String">meiz5566@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0912025777</Data></Cell>
+    <Cell><Data ss:Type="String">台北醫院</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">72</Data></Cell>
+    <Cell><Data ss:Type="String">3505334</Data></Cell>
+    <Cell><Data ss:Type="String">01-01 12:34</Data></Cell>
+    <Cell><Data ss:Type="String">111.246.124.218</Data></Cell>
+    <Cell><Data ss:Type="String">馬晨揚</Data></Cell>
+    <Cell><Data ss:Type="String">hsun.ma@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0935139314</Data></Cell>
+    <Cell><Data ss:Type="String">新中</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">74</Data></Cell>
+    <Cell><Data ss:Type="String">3506287</Data></Cell>
+    <Cell><Data ss:Type="String">01-01 21:38</Data></Cell>
+    <Cell><Data ss:Type="String">111.241.27.16</Data></Cell>
+    <Cell><Data ss:Type="String">楊瑾薇</Data></Cell>
+    <Cell><Data ss:Type="String">birdmoncc@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0928139127</Data></Cell>
+    <Cell><Data ss:Type="String">家管</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">75</Data></Cell>
+    <Cell><Data ss:Type="String">3506385</Data></Cell>
+    <Cell><Data ss:Type="String">01-01 22:33</Data></Cell>
+    <Cell><Data ss:Type="String">114.44.143.229</Data></Cell>
+    <Cell><Data ss:Type="String">沈韋伶</Data></Cell>
+    <Cell><Data ss:Type="String">linlingabi@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0953631993</Data></Cell>
+    <Cell><Data ss:Type="String">自由業</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">76</Data></Cell>
+    <Cell><Data ss:Type="String">3506388</Data></Cell>
+    <Cell><Data ss:Type="String">01-01 22:34</Data></Cell>
+    <Cell><Data ss:Type="String">114.44.143.229</Data></Cell>
+    <Cell><Data ss:Type="String">溫蕙茹</Data></Cell>
+    <Cell><Data ss:Type="String">saihigo2002@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0937195940</Data></Cell>
+    <Cell><Data ss:Type="String">中山國小</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">78</Data></Cell>
+    <Cell><Data ss:Type="String">3506841</Data></Cell>
+    <Cell><Data ss:Type="String">01-02 09:37</Data></Cell>
+    <Cell><Data ss:Type="String">223.136.3.141</Data></Cell>
+    <Cell><Data ss:Type="String">陳泓勳</Data></Cell>
+    <Cell><Data ss:Type="String">drqed0723@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0910166055</Data></Cell>
+    <Cell><Data ss:Type="String">學生</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">8</Data></Cell>
+    <Cell><Data ss:Type="String">3464355</Data></Cell>
+    <Cell><Data ss:Type="String">12-19 23:55</Data></Cell>
+    <Cell><Data ss:Type="String">115.43.78.137</Data></Cell>
+    <Cell><Data ss:Type="String">劉青琳</Data></Cell>
+    <Cell><Data ss:Type="String">aren.liu@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0922364199</Data></Cell>
+    <Cell><Data ss:Type="String">裕隆汽車</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">9</Data></Cell>
+    <Cell><Data ss:Type="String">3464369</Data></Cell>
+    <Cell><Data ss:Type="String">12-20 00:00</Data></Cell>
+    <Cell><Data ss:Type="String">61.230.145.166</Data></Cell>
+    <Cell><Data ss:Type="String">黃淑芬</Data></Cell>
+    <Cell><Data ss:Type="String">tina.fen.huang@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0835690662</Data></Cell>
+    <Cell><Data ss:Type="String">富邦金控</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">91</Data></Cell>
+    <Cell><Data ss:Type="String">3523968</Data></Cell>
+    <Cell><Data ss:Type="String">01-06 17:13</Data></Cell>
+    <Cell><Data ss:Type="String">114.32.163.55</Data></Cell>
+    <Cell><Data ss:Type="String">陳盈孜</Data></Cell>
+    <Cell><Data ss:Type="String">nana@taipeidt.com</Data></Cell>
+    <Cell><Data ss:Type="String">25920055</Data></Cell>
+    <Cell><Data ss:Type="String">臺北市大同運動中心</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">96</Data></Cell>
+    <Cell><Data ss:Type="String">3532134</Data></Cell>
+    <Cell><Data ss:Type="String">01-08 15:47</Data></Cell>
+    <Cell><Data ss:Type="String">163.30.124.3</Data></Cell>
+    <Cell><Data ss:Type="String">張祐慈</Data></Cell>
+    <Cell><Data ss:Type="String">dana131331@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0961131040</Data></Cell>
+    <Cell><Data ss:Type="String">東安國中</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">97</Data></Cell>
+    <Cell><Data ss:Type="String">3532136</Data></Cell>
+    <Cell><Data ss:Type="String">01-08 15:48</Data></Cell>
+    <Cell><Data ss:Type="String">163.30.124.3</Data></Cell>
+    <Cell><Data ss:Type="String">洪力揚</Data></Cell>
+    <Cell><Data ss:Type="String">dana131331@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0961131040</Data></Cell>
+    <Cell><Data ss:Type="String">學生</Data></Cell>
+    <Cell><Data ss:Type="String">1月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">102</Data></Cell>
+    <Cell><Data ss:Type="String">3536024</Data></Cell>
+    <Cell><Data ss:Type="String">01-09 22:47</Data></Cell>
+    <Cell><Data ss:Type="String">61.230.180.201</Data></Cell>
+    <Cell><Data ss:Type="String">周怡萱</Data></Cell>
+    <Cell><Data ss:Type="String">wuh0612@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0910654368</Data></Cell>
+    <Cell><Data ss:Type="String">家管</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">104</Data></Cell>
+    <Cell><Data ss:Type="String">3538414</Data></Cell>
+    <Cell><Data ss:Type="String">01-10 23:53</Data></Cell>
+    <Cell><Data ss:Type="String">36.226.184.81</Data></Cell>
+    <Cell><Data ss:Type="String">賈宜潔</Data></Cell>
+    <Cell><Data ss:Type="String">jay81231@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">+886939108393</Data></Cell>
+    <Cell><Data ss:Type="String">桌遊老師</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">105</Data></Cell>
+    <Cell><Data ss:Type="String">3539430</Data></Cell>
+    <Cell><Data ss:Type="String">01-11 11:30</Data></Cell>
+    <Cell><Data ss:Type="String">61.230.112.121</Data></Cell>
+    <Cell><Data ss:Type="String">林金針</Data></Cell>
+    <Cell><Data ss:Type="String">golden0213@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0936119934</Data></Cell>
+    <Cell><Data ss:Type="String">家管</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">106</Data></Cell>
+    <Cell><Data ss:Type="String">3539474</Data></Cell>
+    <Cell><Data ss:Type="String">01-11 11:39</Data></Cell>
+    <Cell><Data ss:Type="String">1.160.90.240</Data></Cell>
+    <Cell><Data ss:Type="String">胡絲婷</Data></Cell>
+    <Cell><Data ss:Type="String">eemmsummer@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0972193608</Data></Cell>
+    <Cell><Data ss:Type="String">頂通漫畫公司</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">107</Data></Cell>
+    <Cell><Data ss:Type="String">3539490</Data></Cell>
+    <Cell><Data ss:Type="String">01-11 11:44</Data></Cell>
+    <Cell><Data ss:Type="String">220.228.146.36</Data></Cell>
+    <Cell><Data ss:Type="String">張舒文</Data></Cell>
+    <Cell><Data ss:Type="String">iamwen510110@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0973753881</Data></Cell>
+    <Cell><Data ss:Type="String">商周集團</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">108</Data></Cell>
+    <Cell><Data ss:Type="String">3547154</Data></Cell>
+    <Cell><Data ss:Type="String">01-13 07:51</Data></Cell>
+    <Cell><Data ss:Type="String">220.135.163.111</Data></Cell>
+    <Cell><Data ss:Type="String">陳天允</Data></Cell>
+    <Cell><Data ss:Type="String">emagewu@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0930875562</Data></Cell>
+    <Cell><Data ss:Type="String">學生</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">109</Data></Cell>
+    <Cell><Data ss:Type="String">3547155</Data></Cell>
+    <Cell><Data ss:Type="String">01-13 07:52</Data></Cell>
+    <Cell><Data ss:Type="String">220.135.163.111</Data></Cell>
+    <Cell><Data ss:Type="String">吳姬慧</Data></Cell>
+    <Cell><Data ss:Type="String">emagewu@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0930875562</Data></Cell>
+    <Cell><Data ss:Type="String">服務業</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">127</Data></Cell>
+    <Cell><Data ss:Type="String">3618430</Data></Cell>
+    <Cell><Data ss:Type="String">02-10 19:58</Data></Cell>
+    <Cell><Data ss:Type="String">220.136.216.15</Data></Cell>
+    <Cell><Data ss:Type="String">丁素湘</Data></Cell>
+    <Cell><Data ss:Type="String">sushiang.ding@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0921906565</Data></Cell>
+    <Cell><Data ss:Type="String">和平高中</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">128</Data></Cell>
+    <Cell><Data ss:Type="String">3618962</Data></Cell>
+    <Cell><Data ss:Type="String">02-11 15:45</Data></Cell>
+    <Cell><Data ss:Type="String">1.171.54.201</Data></Cell>
+    <Cell><Data ss:Type="String">陳菀妊</Data></Cell>
+    <Cell><Data ss:Type="String">chenwanjen28@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0932822344</Data></Cell>
+    <Cell><Data ss:Type="String">古今書廊</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">22</Data></Cell>
+    <Cell><Data ss:Type="String">3475436</Data></Cell>
+    <Cell><Data ss:Type="String">12-22 23:21</Data></Cell>
+    <Cell><Data ss:Type="String">210.240.193.185</Data></Cell>
+    <Cell><Data ss:Type="String">程俊源</Data></Cell>
+    <Cell><Data ss:Type="String">chungoan@mail.ntcu.edu.tw</Data></Cell>
+    <Cell><Data ss:Type="String">22183917</Data></Cell>
+    <Cell><Data ss:Type="String">臺中教育大學 臺灣語文學系</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">28</Data></Cell>
+    <Cell><Data ss:Type="String">3478086</Data></Cell>
+    <Cell><Data ss:Type="String">12-23 16:00</Data></Cell>
+    <Cell><Data ss:Type="String">42.78.151.233</Data></Cell>
+    <Cell><Data ss:Type="String">李淳雅</Data></Cell>
+    <Cell><Data ss:Type="String">kcy2003012820030128@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0933212269</Data></Cell>
+    <Cell><Data ss:Type="String">燈景企業有限公司</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">29</Data></Cell>
+    <Cell><Data ss:Type="String">3478095</Data></Cell>
+    <Cell><Data ss:Type="String">12-23 16:01</Data></Cell>
+    <Cell><Data ss:Type="String">42.78.151.233</Data></Cell>
+    <Cell><Data ss:Type="String">郭建彥</Data></Cell>
+    <Cell><Data ss:Type="String">kcy2003012820030128@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0933212269</Data></Cell>
+    <Cell><Data ss:Type="String">燈景企業有限公司</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">31</Data></Cell>
+    <Cell><Data ss:Type="String">3481496</Data></Cell>
+    <Cell><Data ss:Type="String">12-24 14:40</Data></Cell>
+    <Cell><Data ss:Type="String">140.115.183.139</Data></Cell>
+    <Cell><Data ss:Type="String">閔肖蔓</Data></Cell>
+    <Cell><Data ss:Type="String">rosana@ncu.edu.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0928247396</Data></Cell>
+    <Cell><Data ss:Type="String">中央大學</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">32</Data></Cell>
+    <Cell><Data ss:Type="String">3481517</Data></Cell>
+    <Cell><Data ss:Type="String">12-24 14:45</Data></Cell>
+    <Cell><Data ss:Type="String">114.25.22.41</Data></Cell>
+    <Cell><Data ss:Type="String">邱望</Data></Cell>
+    <Cell><Data ss:Type="String">chiupika@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0938958805</Data></Cell>
+    <Cell><Data ss:Type="String">導遊</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">33</Data></Cell>
+    <Cell><Data ss:Type="String">3481570</Data></Cell>
+    <Cell><Data ss:Type="String">12-24 14:59</Data></Cell>
+    <Cell><Data ss:Type="String">220.137.13.232</Data></Cell>
+    <Cell><Data ss:Type="String">鄭弼偉</Data></Cell>
+    <Cell><Data ss:Type="String">lsbeauty168@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0912594717</Data></Cell>
+    <Cell><Data ss:Type="String">台北信義安全健康協進會</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">40</Data></Cell>
+    <Cell><Data ss:Type="String">3483208</Data></Cell>
+    <Cell><Data ss:Type="String">12-24 23:53</Data></Cell>
+    <Cell><Data ss:Type="String">118.161.187.144</Data></Cell>
+    <Cell><Data ss:Type="String">黃麗娟</Data></Cell>
+    <Cell><Data ss:Type="String">hung54312@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0981850656</Data></Cell>
+    <Cell><Data ss:Type="String">家管</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">46</Data></Cell>
+    <Cell><Data ss:Type="String">3484872</Data></Cell>
+    <Cell><Data ss:Type="String">12-25 14:51</Data></Cell>
+    <Cell><Data ss:Type="String">192.192.13.101</Data></Cell>
+    <Cell><Data ss:Type="String">陳翠華</Data></Cell>
+    <Cell><Data ss:Type="String">jessie5812@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0978150968</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">49</Data></Cell>
+    <Cell><Data ss:Type="String">3486398</Data></Cell>
+    <Cell><Data ss:Type="String">12-26 01:06</Data></Cell>
+    <Cell><Data ss:Type="String">180.218.159.53</Data></Cell>
+    <Cell><Data ss:Type="String">林凌</Data></Cell>
+    <Cell><Data ss:Type="String">lilinglin2006@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0912868929</Data></Cell>
+    <Cell><Data ss:Type="String">退休人員</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">52</Data></Cell>
+    <Cell><Data ss:Type="String">3490911</Data></Cell>
+    <Cell><Data ss:Type="String">12-28 10:45</Data></Cell>
+    <Cell><Data ss:Type="String">36.225.233.110</Data></Cell>
+    <Cell><Data ss:Type="String">林桂禎</Data></Cell>
+    <Cell><Data ss:Type="String">jane0204blue@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0922181532</Data></Cell>
+    <Cell><Data ss:Type="String">家管</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">53</Data></Cell>
+    <Cell><Data ss:Type="String">3490931</Data></Cell>
+    <Cell><Data ss:Type="String">12-28 10:49</Data></Cell>
+    <Cell><Data ss:Type="String">36.225.233.110</Data></Cell>
+    <Cell><Data ss:Type="String">李亭儀</Data></Cell>
+    <Cell><Data ss:Type="String">jane0204blue@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0922181532</Data></Cell>
+    <Cell><Data ss:Type="String">學生</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">54</Data></Cell>
+    <Cell><Data ss:Type="String">3490946</Data></Cell>
+    <Cell><Data ss:Type="String">12-28 10:50</Data></Cell>
+    <Cell><Data ss:Type="String">118.163.69.181</Data></Cell>
+    <Cell><Data ss:Type="String">周淑華</Data></Cell>
+    <Cell><Data ss:Type="String">hua@thi.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0918606095</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">55</Data></Cell>
+    <Cell><Data ss:Type="String">3490958</Data></Cell>
+    <Cell><Data ss:Type="String">12-28 10:52</Data></Cell>
+    <Cell><Data ss:Type="String">118.163.69.181</Data></Cell>
+    <Cell><Data ss:Type="String">蔡昀蓁</Data></Cell>
+    <Cell><Data ss:Type="String">hua@thi.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0918606095</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">56</Data></Cell>
+    <Cell><Data ss:Type="String">3490964</Data></Cell>
+    <Cell><Data ss:Type="String">12-28 10:52</Data></Cell>
+    <Cell><Data ss:Type="String">118.163.69.181</Data></Cell>
+    <Cell><Data ss:Type="String">蔡家欣</Data></Cell>
+    <Cell><Data ss:Type="String">hua@thi.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0918606095</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">57</Data></Cell>
+    <Cell><Data ss:Type="String">3490965</Data></Cell>
+    <Cell><Data ss:Type="String">12-28 10:52</Data></Cell>
+    <Cell><Data ss:Type="String">36.225.233.110</Data></Cell>
+    <Cell><Data ss:Type="String">李宥璇</Data></Cell>
+    <Cell><Data ss:Type="String">jane0204blue@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0922181532</Data></Cell>
+    <Cell><Data ss:Type="String">學生</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">58</Data></Cell>
+    <Cell><Data ss:Type="String">3490997</Data></Cell>
+    <Cell><Data ss:Type="String">12-28 10:56</Data></Cell>
+    <Cell><Data ss:Type="String">36.225.233.110</Data></Cell>
+    <Cell><Data ss:Type="String">林姿穎</Data></Cell>
+    <Cell><Data ss:Type="String">sallylin0907@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0953250915</Data></Cell>
+    <Cell><Data ss:Type="String">學生</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">59</Data></Cell>
+    <Cell><Data ss:Type="String">3491029</Data></Cell>
+    <Cell><Data ss:Type="String">12-28 11:02</Data></Cell>
+    <Cell><Data ss:Type="String">36.225.233.110</Data></Cell>
+    <Cell><Data ss:Type="String">林桂萍</Data></Cell>
+    <Cell><Data ss:Type="String">sallylin0907@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0953250915</Data></Cell>
+    <Cell><Data ss:Type="String">商</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">60</Data></Cell>
+    <Cell><Data ss:Type="String">3492550</Data></Cell>
+    <Cell><Data ss:Type="String">12-28 16:03</Data></Cell>
+    <Cell><Data ss:Type="String">58.114.197.157</Data></Cell>
+    <Cell><Data ss:Type="String">洪珮芳</Data></Cell>
+    <Cell><Data ss:Type="String">w291w291@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0955964600</Data></Cell>
+    <Cell><Data ss:Type="String">no</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">62</Data></Cell>
+    <Cell><Data ss:Type="String">3499158</Data></Cell>
+    <Cell><Data ss:Type="String">12-30 10:24</Data></Cell>
+    <Cell><Data ss:Type="String">1.171.172.85</Data></Cell>
+    <Cell><Data ss:Type="String">黃風然</Data></Cell>
+    <Cell><Data ss:Type="String">craigblue1978@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0933053627</Data></Cell>
+    <Cell><Data ss:Type="String">臻典藝術有限公司</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">63</Data></Cell>
+    <Cell><Data ss:Type="String">3499167</Data></Cell>
+    <Cell><Data ss:Type="String">12-30 10:25</Data></Cell>
+    <Cell><Data ss:Type="String">1.171.172.85</Data></Cell>
+    <Cell><Data ss:Type="String">詹鈞惠</Data></Cell>
+    <Cell><Data ss:Type="String">craigblue1978@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0933053627</Data></Cell>
+    <Cell><Data ss:Type="String">臻典藝術有限公司</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">65</Data></Cell>
+    <Cell><Data ss:Type="String">3502890</Data></Cell>
+    <Cell><Data ss:Type="String">12-31 13:03</Data></Cell>
+    <Cell><Data ss:Type="String">10.20.3.21</Data></Cell>
+    <Cell><Data ss:Type="String">陳怡如</Data></Cell>
+    <Cell><Data ss:Type="String">yjchen51@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0928556766</Data></Cell>
+    <Cell><Data ss:Type="String">台電</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">66</Data></Cell>
+    <Cell><Data ss:Type="String">3502910</Data></Cell>
+    <Cell><Data ss:Type="String">12-31 13:06</Data></Cell>
+    <Cell><Data ss:Type="String">10.20.3.21</Data></Cell>
+    <Cell><Data ss:Type="String">林英哲</Data></Cell>
+    <Cell><Data ss:Type="String">yclin@mail.tnu.edu.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0928588405</Data></Cell>
+    <Cell><Data ss:Type="String">東南科大</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">67</Data></Cell>
+    <Cell><Data ss:Type="String">3502919</Data></Cell>
+    <Cell><Data ss:Type="String">12-31 13:08</Data></Cell>
+    <Cell><Data ss:Type="String">10.20.3.21</Data></Cell>
+    <Cell><Data ss:Type="String">溫文欽</Data></Cell>
+    <Cell><Data ss:Type="String">sun370822@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0987217916</Data></Cell>
+    <Cell><Data ss:Type="String">退休</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">68</Data></Cell>
+    <Cell><Data ss:Type="String">3502924</Data></Cell>
+    <Cell><Data ss:Type="String">12-31 13:10</Data></Cell>
+    <Cell><Data ss:Type="String">10.20.3.21</Data></Cell>
+    <Cell><Data ss:Type="String">蔣次寧</Data></Cell>
+    <Cell><Data ss:Type="String">sun370822@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0987217916</Data></Cell>
+    <Cell><Data ss:Type="String">司法院</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">70</Data></Cell>
+    <Cell><Data ss:Type="String">3504361</Data></Cell>
+    <Cell><Data ss:Type="String">12-31 22:38</Data></Cell>
+    <Cell><Data ss:Type="String">219.85.129.84</Data></Cell>
+    <Cell><Data ss:Type="String">鄭勝吉</Data></Cell>
+    <Cell><Data ss:Type="String">aquanick218@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0955459376</Data></Cell>
+    <Cell><Data ss:Type="String">天行空間研究室</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">73</Data></Cell>
+    <Cell><Data ss:Type="String">3505974</Data></Cell>
+    <Cell><Data ss:Type="String">01-01 18:39</Data></Cell>
+    <Cell><Data ss:Type="String">111.243.91.45</Data></Cell>
+    <Cell><Data ss:Type="String">許家偉</Data></Cell>
+    <Cell><Data ss:Type="String">h208814@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0932208814</Data></Cell>
+    <Cell><Data ss:Type="String">自營商</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">79</Data></Cell>
+    <Cell><Data ss:Type="String">3507093</Data></Cell>
+    <Cell><Data ss:Type="String">01-02 12:20</Data></Cell>
+    <Cell><Data ss:Type="String">180.217.162.130</Data></Cell>
+    <Cell><Data ss:Type="String">簡元育</Data></Cell>
+    <Cell><Data ss:Type="String">doremifasola71@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0972816678</Data></Cell>
+    <Cell><Data ss:Type="String">東森</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">80</Data></Cell>
+    <Cell><Data ss:Type="String">3507095</Data></Cell>
+    <Cell><Data ss:Type="String">01-02 12:21</Data></Cell>
+    <Cell><Data ss:Type="String">180.217.162.130</Data></Cell>
+    <Cell><Data ss:Type="String">許芳瑜</Data></Cell>
+    <Cell><Data ss:Type="String">fangyu_hsu@yahoo.com</Data></Cell>
+    <Cell><Data ss:Type="String">0958788310</Data></Cell>
+    <Cell><Data ss:Type="String">研華</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">81</Data></Cell>
+    <Cell><Data ss:Type="String">3507107</Data></Cell>
+    <Cell><Data ss:Type="String">01-02 12:27</Data></Cell>
+    <Cell><Data ss:Type="String">114.136.116.101</Data></Cell>
+    <Cell><Data ss:Type="String">林怡青</Data></Cell>
+    <Cell><Data ss:Type="String">pec87054065@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0930855495</Data></Cell>
+    <Cell><Data ss:Type="String">統一星巴克</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">85</Data></Cell>
+    <Cell><Data ss:Type="String">3508538</Data></Cell>
+    <Cell><Data ss:Type="String">01-03 10:37</Data></Cell>
+    <Cell><Data ss:Type="String">180.217.157.7</Data></Cell>
+    <Cell><Data ss:Type="String">許定國</Data></Cell>
+    <Cell><Data ss:Type="String">fangyu_hsu@yahoo.com</Data></Cell>
+    <Cell><Data ss:Type="String">0958788310</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">86</Data></Cell>
+    <Cell><Data ss:Type="String">3508543</Data></Cell>
+    <Cell><Data ss:Type="String">01-03 10:39</Data></Cell>
+    <Cell><Data ss:Type="String">180.217.157.7</Data></Cell>
+    <Cell><Data ss:Type="String">黃照妹</Data></Cell>
+    <Cell><Data ss:Type="String">fangyu_hsu@yahoo.com</Data></Cell>
+    <Cell><Data ss:Type="String">0958788310</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">89</Data></Cell>
+    <Cell><Data ss:Type="String">3517224</Data></Cell>
+    <Cell><Data ss:Type="String">01-05 15:05</Data></Cell>
+    <Cell><Data ss:Type="String">172.27.167.90</Data></Cell>
+    <Cell><Data ss:Type="String">唐若蕾</Data></Cell>
+    <Cell><Data ss:Type="String">leitang06@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0983013097</Data></Cell>
+    <Cell><Data ss:Type="String">台灣大哥大</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">90</Data></Cell>
+    <Cell><Data ss:Type="String">3522345</Data></Cell>
+    <Cell><Data ss:Type="String">01-06 11:45</Data></Cell>
+    <Cell><Data ss:Type="String">210.240.5.93</Data></Cell>
+    <Cell><Data ss:Type="String">陳芬蘭</Data></Cell>
+    <Cell><Data ss:Type="String">rice@wdps.kl.edu.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0988650925</Data></Cell>
+    <Cell><Data ss:Type="String">基隆市五堵國小</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">93</Data></Cell>
+    <Cell><Data ss:Type="String">3530662</Data></Cell>
+    <Cell><Data ss:Type="String">01-08 11:04</Data></Cell>
+    <Cell><Data ss:Type="String">10.30.120.39</Data></Cell>
+    <Cell><Data ss:Type="String">潘志鴻</Data></Cell>
+    <Cell><Data ss:Type="String">pjh0928@ms28.hinet.net</Data></Cell>
+    <Cell><Data ss:Type="String">0922652946</Data></Cell>
+    <Cell><Data ss:Type="String">EPISTAR</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">98</Data></Cell>
+    <Cell><Data ss:Type="String">3533299</Data></Cell>
+    <Cell><Data ss:Type="String">01-08 21:17</Data></Cell>
+    <Cell><Data ss:Type="String">111.80.0.71</Data></Cell>
+    <Cell><Data ss:Type="String">陳雪玲</Data></Cell>
+    <Cell><Data ss:Type="String">Chen0936360800@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0936360800</Data></Cell>
+    <Cell><Data ss:Type="String">退休</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">99</Data></Cell>
+    <Cell><Data ss:Type="String">3533447</Data></Cell>
+    <Cell><Data ss:Type="String">01-08 21:59</Data></Cell>
+    <Cell><Data ss:Type="String">114.36.99.110</Data></Cell>
+    <Cell><Data ss:Type="String">張蕙萍</Data></Cell>
+    <Cell><Data ss:Type="String">ppp28856@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0933760816</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">2月13日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">19</Data></Cell>
+    <Cell><Data ss:Type="String">3464584</Data></Cell>
+    <Cell><Data ss:Type="String">12-20 08:48</Data></Cell>
+    <Cell><Data ss:Type="String">180.217.158.15</Data></Cell>
+    <Cell><Data ss:Type="String">陳國元</Data></Cell>
+    <Cell><Data ss:Type="String">williechen2009@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0919276000</Data></Cell>
+    <Cell><Data ss:Type="String">資策會</Data></Cell>
+    <Cell><Data ss:Type="String">3月12日&#45;-講師：蔣智揚（英語)</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">101</Data></Cell>
+    <Cell><Data ss:Type="String">3534162</Data></Cell>
+    <Cell><Data ss:Type="String">01-09 06:14</Data></Cell>
+    <Cell><Data ss:Type="String">49.219.90.56</Data></Cell>
+    <Cell><Data ss:Type="String">翁廷均</Data></Cell>
+    <Cell><Data ss:Type="String">steven.weng@molex.com</Data></Cell>
+    <Cell><Data ss:Type="String">0915300902</Data></Cell>
+    <Cell><Data ss:Type="String">CFPA</Data></Cell>
+    <Cell><Data ss:Type="String">3月12日&#45;-講師：蔣智揚（英語English)</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">131</Data></Cell>
+    <Cell><Data ss:Type="String">3639753</Data></Cell>
+    <Cell><Data ss:Type="String">02-17 18:03</Data></Cell>
+    <Cell><Data ss:Type="String">118.160.49.40</Data></Cell>
+    <Cell><Data ss:Type="String">王貞懿</Data></Cell>
+    <Cell><Data ss:Type="String">jwluan@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0932389915</Data></Cell>
+    <Cell><Data ss:Type="String">中華民國社區營造學會</Data></Cell>
+    <Cell><Data ss:Type="String">3月12日&#45;-講師：蔣智揚（英語English)</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">152</Data></Cell>
+    <Cell><Data ss:Type="String">3685115</Data></Cell>
+    <Cell><Data ss:Type="String">02-28 22:16</Data></Cell>
+    <Cell><Data ss:Type="String">114.24.204.253</Data></Cell>
+    <Cell><Data ss:Type="String">詹有順</Data></Cell>
+    <Cell><Data ss:Type="String">yushun95@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0933750695</Data></Cell>
+    <Cell><Data ss:Type="String">大學講師</Data></Cell>
+    <Cell><Data ss:Type="String">3月12日&#45;-講師：蔣智揚（英語English)</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">69</Data></Cell>
+    <Cell><Data ss:Type="String">3502975</Data></Cell>
+    <Cell><Data ss:Type="String">12-31 13:30</Data></Cell>
+    <Cell><Data ss:Type="String">123.194.177.93</Data></Cell>
+    <Cell><Data ss:Type="String">Ting Lechin</Data></Cell>
+    <Cell><Data ss:Type="String">sophia526@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0953976358</Data></Cell>
+    <Cell><Data ss:Type="String">台北保安宮志工</Data></Cell>
+    <Cell><Data ss:Type="String">3月12日&#45;-講師：蔣智揚（英語English)</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">103</Data></Cell>
+    <Cell><Data ss:Type="String">3536598</Data></Cell>
+    <Cell><Data ss:Type="String">01-10 10:13</Data></Cell>
+    <Cell><Data ss:Type="String">101.12.13.244</Data></Cell>
+    <Cell><Data ss:Type="String">蔡佩娥</Data></Cell>
+    <Cell><Data ss:Type="String">petratsai@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0918205010</Data></Cell>
+    <Cell><Data ss:Type="String">台北市中正高中</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">110</Data></Cell>
+    <Cell><Data ss:Type="String">3552057</Data></Cell>
+    <Cell><Data ss:Type="String">01-14 08:53</Data></Cell>
+    <Cell><Data ss:Type="String">210.242.237.229</Data></Cell>
+    <Cell><Data ss:Type="String">林佳敏</Data></Cell>
+    <Cell><Data ss:Type="String">galia@ms1.url.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0930690021</Data></Cell>
+    <Cell><Data ss:Type="String">恩主公醫院</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">111</Data></Cell>
+    <Cell><Data ss:Type="String">3552836</Data></Cell>
+    <Cell><Data ss:Type="String">01-14 11:29</Data></Cell>
+    <Cell><Data ss:Type="String">210.242.237.229</Data></Cell>
+    <Cell><Data ss:Type="String">蘇淯霖</Data></Cell>
+    <Cell><Data ss:Type="String">12564@km.eck.org.tw</Data></Cell>
+    <Cell><Data ss:Type="String">26730790</Data></Cell>
+    <Cell><Data ss:Type="String">銀行業</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">113</Data></Cell>
+    <Cell><Data ss:Type="String">3563475</Data></Cell>
+    <Cell><Data ss:Type="String">01-18 10:10</Data></Cell>
+    <Cell><Data ss:Type="String">111.248.104.85</Data></Cell>
+    <Cell><Data ss:Type="String">張淑敏</Data></Cell>
+    <Cell><Data ss:Type="String">chang.shuming@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0928011001</Data></Cell>
+    <Cell><Data ss:Type="String">海宮</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">115</Data></Cell>
+    <Cell><Data ss:Type="String">3579601</Data></Cell>
+    <Cell><Data ss:Type="String">01-23 00:29</Data></Cell>
+    <Cell><Data ss:Type="String">180.217.0.36</Data></Cell>
+    <Cell><Data ss:Type="String">張舒文</Data></Cell>
+    <Cell><Data ss:Type="String">iamwen510110@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0973753881</Data></Cell>
+    <Cell><Data ss:Type="String">商周集團</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">116</Data></Cell>
+    <Cell><Data ss:Type="String">3579603</Data></Cell>
+    <Cell><Data ss:Type="String">01-23 00:29</Data></Cell>
+    <Cell><Data ss:Type="String">118.165.11.75</Data></Cell>
+    <Cell><Data ss:Type="String">林佳龍</Data></Cell>
+    <Cell><Data ss:Type="String">nicedragonlin@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0918594800</Data></Cell>
+    <Cell><Data ss:Type="String">學生</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">117</Data></Cell>
+    <Cell><Data ss:Type="String">3581522</Data></Cell>
+    <Cell><Data ss:Type="String">01-24 03:30</Data></Cell>
+    <Cell><Data ss:Type="String">123.193.76.17</Data></Cell>
+    <Cell><Data ss:Type="String">張振財</Data></Cell>
+    <Cell><Data ss:Type="String">tiger1112222000@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0922409600</Data></Cell>
+    <Cell><Data ss:Type="String">台北市政府</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">120</Data></Cell>
+    <Cell><Data ss:Type="String">3584114</Data></Cell>
+    <Cell><Data ss:Type="String">01-25 13:30</Data></Cell>
+    <Cell><Data ss:Type="String">118.163.15.197</Data></Cell>
+    <Cell><Data ss:Type="String">李志偉</Data></Cell>
+    <Cell><Data ss:Type="String">14058@heysong.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0938919787</Data></Cell>
+    <Cell><Data ss:Type="String">私人行號</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">124</Data></Cell>
+    <Cell><Data ss:Type="String">3615540</Data></Cell>
+    <Cell><Data ss:Type="String">02-06 00:01</Data></Cell>
+    <Cell><Data ss:Type="String">150.116.18.51</Data></Cell>
+    <Cell><Data ss:Type="String">顏尚誠</Data></Cell>
+    <Cell><Data ss:Type="String">goldchild.tw@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0955570024</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">129</Data></Cell>
+    <Cell><Data ss:Type="String">3620031</Data></Cell>
+    <Cell><Data ss:Type="String">02-12 21:31</Data></Cell>
+    <Cell><Data ss:Type="String">111.248.227.94</Data></Cell>
+    <Cell><Data ss:Type="String">楊典岳</Data></Cell>
+    <Cell><Data ss:Type="String">yang.someone@msa.hinet.net</Data></Cell>
+    <Cell><Data ss:Type="String">0921952423</Data></Cell>
+    <Cell><Data ss:Type="String">石牌國中</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">130</Data></Cell>
+    <Cell><Data ss:Type="String">3624230</Data></Cell>
+    <Cell><Data ss:Type="String">02-15 11:18</Data></Cell>
+    <Cell><Data ss:Type="String">210.69.75.18</Data></Cell>
+    <Cell><Data ss:Type="String">魏婉倫</Data></Cell>
+    <Cell><Data ss:Type="String">misschu56@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0983209819</Data></Cell>
+    <Cell><Data ss:Type="String">行政院農業委員會</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">139</Data></Cell>
+    <Cell><Data ss:Type="String">3659584</Data></Cell>
+    <Cell><Data ss:Type="String">02-22 12:57</Data></Cell>
+    <Cell><Data ss:Type="String">114.136.238.160</Data></Cell>
+    <Cell><Data ss:Type="String">廖翠華</Data></Cell>
+    <Cell><Data ss:Type="String">flora@m2.csghs.tp.edu.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0933720007</Data></Cell>
+    <Cell><Data ss:Type="String">中山女高</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">141</Data></Cell>
+    <Cell><Data ss:Type="String">3664585</Data></Cell>
+    <Cell><Data ss:Type="String">02-23 14:31</Data></Cell>
+    <Cell><Data ss:Type="String">114.43.65.236</Data></Cell>
+    <Cell><Data ss:Type="String">馮慧玉</Data></Cell>
+    <Cell><Data ss:Type="String">nmsm1491@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0919451341</Data></Cell>
+    <Cell><Data ss:Type="String">自由業</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">142</Data></Cell>
+    <Cell><Data ss:Type="String">3668428</Data></Cell>
+    <Cell><Data ss:Type="String">02-24 10:22</Data></Cell>
+    <Cell><Data ss:Type="String">114.36.103.65</Data></Cell>
+    <Cell><Data ss:Type="String">廖岳</Data></Cell>
+    <Cell><Data ss:Type="String">yueh2158@pchome.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0937022896</Data></Cell>
+    <Cell><Data ss:Type="String">芝山岩社區發展協會</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">143</Data></Cell>
+    <Cell><Data ss:Type="String">3669401</Data></Cell>
+    <Cell><Data ss:Type="String">02-24 13:55</Data></Cell>
+    <Cell><Data ss:Type="String">42.72.115.215</Data></Cell>
+    <Cell><Data ss:Type="String">邱祺瑾</Data></Cell>
+    <Cell><Data ss:Type="String">vendor95@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0912209895</Data></Cell>
+    <Cell><Data ss:Type="String">順達</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">144</Data></Cell>
+    <Cell><Data ss:Type="String">3670159</Data></Cell>
+    <Cell><Data ss:Type="String">02-24 16:25</Data></Cell>
+    <Cell><Data ss:Type="String">111.248.149.239</Data></Cell>
+    <Cell><Data ss:Type="String">林水青</Data></Cell>
+    <Cell><Data ss:Type="String">huanglinjin@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">27267938</Data></Cell>
+    <Cell><Data ss:Type="String">自由業</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">145</Data></Cell>
+    <Cell><Data ss:Type="String">3672533</Data></Cell>
+    <Cell><Data ss:Type="String">02-25 08:24</Data></Cell>
+    <Cell><Data ss:Type="String">101.8.242.136</Data></Cell>
+    <Cell><Data ss:Type="String">楊捷羽</Data></Cell>
+    <Cell><Data ss:Type="String">persian610303@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0919391604</Data></Cell>
+    <Cell><Data ss:Type="String">文化國小</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">146</Data></Cell>
+    <Cell><Data ss:Type="String">3672545</Data></Cell>
+    <Cell><Data ss:Type="String">02-25 08:26</Data></Cell>
+    <Cell><Data ss:Type="String">101.8.242.136</Data></Cell>
+    <Cell><Data ss:Type="String">黃玉惠</Data></Cell>
+    <Cell><Data ss:Type="String">persian610303@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0919391604</Data></Cell>
+    <Cell><Data ss:Type="String">淡水國中</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">147</Data></Cell>
+    <Cell><Data ss:Type="String">3672557</Data></Cell>
+    <Cell><Data ss:Type="String">02-25 08:29</Data></Cell>
+    <Cell><Data ss:Type="String">101.8.242.136</Data></Cell>
+    <Cell><Data ss:Type="String">楊捷羽</Data></Cell>
+    <Cell><Data ss:Type="String">persian610303@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0919391604</Data></Cell>
+    <Cell><Data ss:Type="String">文化國小</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">35</Data></Cell>
+    <Cell><Data ss:Type="String">3481904</Data></Cell>
+    <Cell><Data ss:Type="String">12-24 16:34</Data></Cell>
+    <Cell><Data ss:Type="String">175.98.150.194</Data></Cell>
+    <Cell><Data ss:Type="String">王憶屏</Data></Cell>
+    <Cell><Data ss:Type="String">karenwang650522@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0921273513</Data></Cell>
+    <Cell><Data ss:Type="String">台達電</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">37</Data></Cell>
+    <Cell><Data ss:Type="String">3482111</Data></Cell>
+    <Cell><Data ss:Type="String">12-24 17:48</Data></Cell>
+    <Cell><Data ss:Type="String">60.250.251.164</Data></Cell>
+    <Cell><Data ss:Type="String">賈記綉</Data></Cell>
+    <Cell><Data ss:Type="String">chihsio.chia@deltaww.com</Data></Cell>
+    <Cell><Data ss:Type="String">0920725045</Data></Cell>
+    <Cell><Data ss:Type="String">台達電子公司</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">77</Data></Cell>
+    <Cell><Data ss:Type="String">3506605</Data></Cell>
+    <Cell><Data ss:Type="String">01-02 00:22</Data></Cell>
+    <Cell><Data ss:Type="String">1.164.77.101</Data></Cell>
+    <Cell><Data ss:Type="String">葉威志</Data></Cell>
+    <Cell><Data ss:Type="String">yeh11046weichih@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0933840066</Data></Cell>
+    <Cell><Data ss:Type="String">自由業</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">82</Data></Cell>
+    <Cell><Data ss:Type="String">3507557</Data></Cell>
+    <Cell><Data ss:Type="String">01-02 17:44</Data></Cell>
+    <Cell><Data ss:Type="String">180.217.36.153</Data></Cell>
+    <Cell><Data ss:Type="String">謝欣妤</Data></Cell>
+    <Cell><Data ss:Type="String">imislahsieh@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0986120811</Data></Cell>
+    <Cell><Data ss:Type="String">大潤發</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">83</Data></Cell>
+    <Cell><Data ss:Type="String">3507559</Data></Cell>
+    <Cell><Data ss:Type="String">01-02 17:45</Data></Cell>
+    <Cell><Data ss:Type="String">180.217.36.153</Data></Cell>
+    <Cell><Data ss:Type="String">許任宏</Data></Cell>
+    <Cell><Data ss:Type="String">mikastar8351@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0986730661</Data></Cell>
+    <Cell><Data ss:Type="String">中租</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">87</Data></Cell>
+    <Cell><Data ss:Type="String">3509824</Data></Cell>
+    <Cell><Data ss:Type="String">01-03 21:22</Data></Cell>
+    <Cell><Data ss:Type="String">117.19.81.47</Data></Cell>
+    <Cell><Data ss:Type="String">今福妙</Data></Cell>
+    <Cell><Data ss:Type="String">imafukutae@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0970013231</Data></Cell>
+    <Cell><Data ss:Type="String">龍山國中</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">88</Data></Cell>
+    <Cell><Data ss:Type="String">3509934</Data></Cell>
+    <Cell><Data ss:Type="String">01-03 21:45</Data></Cell>
+    <Cell><Data ss:Type="String">118.160.70.130</Data></Cell>
+    <Cell><Data ss:Type="String">黃庭瑀</Data></Cell>
+    <Cell><Data ss:Type="String">j210024@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0937329581</Data></Cell>
+    <Cell><Data ss:Type="String">公立學校</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">148</Data></Cell>
+    <Cell><Data ss:Type="String">3672701</Data></Cell>
+    <Cell><Data ss:Type="String">02-25 09:24</Data></Cell>
+    <Cell><Data ss:Type="String">163.20.242.210</Data></Cell>
+    <Cell><Data ss:Type="String">黃玉惠</Data></Cell>
+    <Cell><Data ss:Type="String">persian610303@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0919391604</Data></Cell>
+    <Cell><Data ss:Type="String">淡水國中</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根、蔣智揚</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">150</Data></Cell>
+    <Cell><Data ss:Type="String">3683066</Data></Cell>
+    <Cell><Data ss:Type="String">02-27 19:12</Data></Cell>
+    <Cell><Data ss:Type="String">114.36.86.126</Data></Cell>
+    <Cell><Data ss:Type="String">陳芸涓</Data></Cell>
+    <Cell><Data ss:Type="String">nicole041210@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0933118289</Data></Cell>
+    <Cell><Data ss:Type="String">學生</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根、蔣智揚</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">151</Data></Cell>
+    <Cell><Data ss:Type="String">3683099</Data></Cell>
+    <Cell><Data ss:Type="String">02-27 19:29</Data></Cell>
+    <Cell><Data ss:Type="String">27.51.2.233</Data></Cell>
+    <Cell><Data ss:Type="String">陳冠妤</Data></Cell>
+    <Cell><Data ss:Type="String">yoyo168yes@yahoo.com</Data></Cell>
+    <Cell><Data ss:Type="String">0919095765</Data></Cell>
+    <Cell><Data ss:Type="String">學生</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根、蔣智揚</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">153</Data></Cell>
+    <Cell><Data ss:Type="String">3696057</Data></Cell>
+    <Cell><Data ss:Type="String">03-02 10:06</Data></Cell>
+    <Cell><Data ss:Type="String">123.192.124.225</Data></Cell>
+    <Cell><Data ss:Type="String">張棣棠</Data></Cell>
+    <Cell><Data ss:Type="String">antomy5104@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0932923154</Data></Cell>
+    <Cell><Data ss:Type="String">自由業</Data></Cell>
+    <Cell><Data ss:Type="String">4月9日&#45;-講師、蔣朝根、蔣智揚</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">11</Data></Cell>
+    <Cell><Data ss:Type="String">3464420</Data></Cell>
+    <Cell><Data ss:Type="String">12-20 00:30</Data></Cell>
+    <Cell><Data ss:Type="String">123.193.184.212</Data></Cell>
+    <Cell><Data ss:Type="String">洪翔</Data></Cell>
+    <Cell><Data ss:Type="String">linushung0325@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0979795878</Data></Cell>
+    <Cell><Data ss:Type="String">智誠科技</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">112</Data></Cell>
+    <Cell><Data ss:Type="String">3557633</Data></Cell>
+    <Cell><Data ss:Type="String">01-15 16:32</Data></Cell>
+    <Cell><Data ss:Type="String">63.241.226.72</Data></Cell>
+    <Cell><Data ss:Type="String">蔡敏萱</Data></Cell>
+    <Cell><Data ss:Type="String">michelle.tsai@dupont.com</Data></Cell>
+    <Cell><Data ss:Type="String">0918284163</Data></Cell>
+    <Cell><Data ss:Type="String">台灣杜邦</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">114</Data></Cell>
+    <Cell><Data ss:Type="String">3567451</Data></Cell>
+    <Cell><Data ss:Type="String">01-19 11:09</Data></Cell>
+    <Cell><Data ss:Type="String">63.241.226.71</Data></Cell>
+    <Cell><Data ss:Type="String">蔣慧如</Data></Cell>
+    <Cell><Data ss:Type="String">amy480115@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0930618006</Data></Cell>
+    <Cell><Data ss:Type="String">DuPont Taiwan</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">126</Data></Cell>
+    <Cell><Data ss:Type="String">3617041</Data></Cell>
+    <Cell><Data ss:Type="String">02-08 01:13</Data></Cell>
+    <Cell><Data ss:Type="String">122.116.24.3</Data></Cell>
+    <Cell><Data ss:Type="String">張郁平</Data></Cell>
+    <Cell><Data ss:Type="String">ayupretty520@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0931513155</Data></Cell>
+    <Cell><Data ss:Type="String">自由業</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">13</Data></Cell>
+    <Cell><Data ss:Type="String">3464424</Data></Cell>
+    <Cell><Data ss:Type="String">12-20 00:32</Data></Cell>
+    <Cell><Data ss:Type="String">123.193.184.212</Data></Cell>
+    <Cell><Data ss:Type="String">何怡珊</Data></Cell>
+    <Cell><Data ss:Type="String">yisanho@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0922935756</Data></Cell>
+    <Cell><Data ss:Type="String">家管</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">132</Data></Cell>
+    <Cell><Data ss:Type="String">3649784</Data></Cell>
+    <Cell><Data ss:Type="String">02-19 14:17</Data></Cell>
+    <Cell><Data ss:Type="String">1.163.1.31</Data></Cell>
+    <Cell><Data ss:Type="String">楊韻儀</Data></Cell>
+    <Cell><Data ss:Type="String">first0711625@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0989961960</Data></Cell>
+    <Cell><Data ss:Type="String">中原大學</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">133</Data></Cell>
+    <Cell><Data ss:Type="String">3649800</Data></Cell>
+    <Cell><Data ss:Type="String">02-19 14:21</Data></Cell>
+    <Cell><Data ss:Type="String">1.163.1.31</Data></Cell>
+    <Cell><Data ss:Type="String">張馨穎</Data></Cell>
+    <Cell><Data ss:Type="String">usps95a09@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0988231966</Data></Cell>
+    <Cell><Data ss:Type="String">中原大學</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">134</Data></Cell>
+    <Cell><Data ss:Type="String">3649815</Data></Cell>
+    <Cell><Data ss:Type="String">02-19 14:24</Data></Cell>
+    <Cell><Data ss:Type="String">1.163.1.31</Data></Cell>
+    <Cell><Data ss:Type="String">劉雨其</Data></Cell>
+    <Cell><Data ss:Type="String">first0711625@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0989961960</Data></Cell>
+    <Cell><Data ss:Type="String">中原大學</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">140</Data></Cell>
+    <Cell><Data ss:Type="String">3659941</Data></Cell>
+    <Cell><Data ss:Type="String">02-22 14:18</Data></Cell>
+    <Cell><Data ss:Type="String">1.163.1.31</Data></Cell>
+    <Cell><Data ss:Type="String">蔡靜瑩</Data></Cell>
+    <Cell><Data ss:Type="String">love0820904@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0912261941</Data></Cell>
+    <Cell><Data ss:Type="String">中原大學</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">47</Data></Cell>
+    <Cell><Data ss:Type="String">3486193</Data></Cell>
+    <Cell><Data ss:Type="String">12-25 23:14</Data></Cell>
+    <Cell><Data ss:Type="String">115.43.87.8</Data></Cell>
+    <Cell><Data ss:Type="String">陳源威</Data></Cell>
+    <Cell><Data ss:Type="String">ywchen00682@tipo.gov.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0911648103</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">48</Data></Cell>
+    <Cell><Data ss:Type="String">3486211</Data></Cell>
+    <Cell><Data ss:Type="String">12-25 23:19</Data></Cell>
+    <Cell><Data ss:Type="String">115.43.87.8</Data></Cell>
+    <Cell><Data ss:Type="String">梁莉婕</Data></Cell>
+    <Cell><Data ss:Type="String">ywchen00682@tipo.gov.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0911648103</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">84</Data></Cell>
+    <Cell><Data ss:Type="String">3508097</Data></Cell>
+    <Cell><Data ss:Type="String">01-02 22:51</Data></Cell>
+    <Cell><Data ss:Type="String">61.223.206.120</Data></Cell>
+    <Cell><Data ss:Type="String">鄭昌政</Data></Cell>
+    <Cell><Data ss:Type="String">chang2cheng@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0928333532</Data></Cell>
+    <Cell><Data ss:Type="String">岸裡</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">92</Data></Cell>
+    <Cell><Data ss:Type="String">3525946</Data></Cell>
+    <Cell><Data ss:Type="String">01-07 00:40</Data></Cell>
+    <Cell><Data ss:Type="String">36.226.250.244</Data></Cell>
+    <Cell><Data ss:Type="String">許績繽</Data></Cell>
+    <Cell><Data ss:Type="String">tsuki.abe@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0965236913</Data></Cell>
+    <Cell><Data ss:Type="String">山貓國際</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">94</Data></Cell>
+    <Cell><Data ss:Type="String">3531110</Data></Cell>
+    <Cell><Data ss:Type="String">01-08 12:18</Data></Cell>
+    <Cell><Data ss:Type="String">180.204.178.30</Data></Cell>
+    <Cell><Data ss:Type="String">周昕婕</Data></Cell>
+    <Cell><Data ss:Type="String">Cohrtw@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0966028828</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">95</Data></Cell>
+    <Cell><Data ss:Type="String">3531991</Data></Cell>
+    <Cell><Data ss:Type="String">01-08 15:17</Data></Cell>
+    <Cell><Data ss:Type="String">223.140.123.205</Data></Cell>
+    <Cell><Data ss:Type="String">陳韋儒</Data></Cell>
+    <Cell><Data ss:Type="String">lwchen6520@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0926694943</Data></Cell>
+    <Cell><Data ss:Type="String">華新麗華股份有限公司</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">149</Data></Cell>
+    <Cell><Data ss:Type="String">3677934</Data></Cell>
+    <Cell><Data ss:Type="String">02-26 12:15</Data></Cell>
+    <Cell><Data ss:Type="String">110.30.220.157</Data></Cell>
+    <Cell><Data ss:Type="String">賴君維</Data></Cell>
+    <Cell><Data ss:Type="String">jason440123@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0912922079</Data></Cell>
+    <Cell><Data ss:Type="String">中原大學</Data></Cell>
+    <Cell><Data ss:Type="String">5月14日&#45;-講師、蔣朝根、蔣智揚</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">121</Data></Cell>
+    <Cell><Data ss:Type="String">3587626</Data></Cell>
+    <Cell><Data ss:Type="String">01-26 16:58</Data></Cell>
+    <Cell><Data ss:Type="String">223.138.27.78</Data></Cell>
+    <Cell><Data ss:Type="String">黃伊芃</Data></Cell>
+    <Cell><Data ss:Type="String">yipenghs@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0972378799</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">6月11日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">38</Data></Cell>
+    <Cell><Data ss:Type="String">3482464</Data></Cell>
+    <Cell><Data ss:Type="String">12-24 20:27</Data></Cell>
+    <Cell><Data ss:Type="String">220.135.30.210</Data></Cell>
+    <Cell><Data ss:Type="String">陳子瑜</Data></Cell>
+    <Cell><Data ss:Type="String">nicole25145323@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0922562492</Data></Cell>
+    <Cell><Data ss:Type="String">興南國小</Data></Cell>
+    <Cell><Data ss:Type="String">6月11日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">39</Data></Cell>
+    <Cell><Data ss:Type="String">3482499</Data></Cell>
+    <Cell><Data ss:Type="String">12-24 20:35</Data></Cell>
+    <Cell><Data ss:Type="String">220.135.30.210</Data></Cell>
+    <Cell><Data ss:Type="String">楊巨昌</Data></Cell>
+    <Cell><Data ss:Type="String">csb905yanger3200@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0920431811</Data></Cell>
+    <Cell><Data ss:Type="String">聯邦銀行</Data></Cell>
+    <Cell><Data ss:Type="String">6月11日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">122</Data></Cell>
+    <Cell><Data ss:Type="String">3600749</Data></Cell>
+    <Cell><Data ss:Type="String">01-31 12:44</Data></Cell>
+    <Cell><Data ss:Type="String">220.129.199.146</Data></Cell>
+    <Cell><Data ss:Type="String">楊鎮蓉</Data></Cell>
+    <Cell><Data ss:Type="String">vanessayang168@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0226432088</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">7月9日&#45;-講師：蔣智揚(日語Japanese)</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">125</Data></Cell>
+    <Cell><Data ss:Type="String">3615552</Data></Cell>
+    <Cell><Data ss:Type="String">02-06 00:09</Data></Cell>
+    <Cell><Data ss:Type="String">150.116.18.51</Data></Cell>
+    <Cell><Data ss:Type="String">顏尚誠</Data></Cell>
+    <Cell><Data ss:Type="String">goldchild.tw@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0955570024</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">7月9日&#45;-講師：蔣智揚(日語Japanese)</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">138</Data></Cell>
+    <Cell><Data ss:Type="String">3651797</Data></Cell>
+    <Cell><Data ss:Type="String">02-19 23:39</Data></Cell>
+    <Cell><Data ss:Type="String">220.136.36.22</Data></Cell>
+    <Cell><Data ss:Type="String">連錦堅</Data></Cell>
+    <Cell><Data ss:Type="String">rock8128@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0936209569</Data></Cell>
+    <Cell><Data ss:Type="String">希望基金會</Data></Cell>
+    <Cell><Data ss:Type="String">7月9日&#45;-講師：蔣智揚(日語Japanese)</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">123</Data></Cell>
+    <Cell><Data ss:Type="String">3600751</Data></Cell>
+    <Cell><Data ss:Type="String">01-31 12:45</Data></Cell>
+    <Cell><Data ss:Type="String">220.129.199.146</Data></Cell>
+    <Cell><Data ss:Type="String">楊鎮蓉</Data></Cell>
+    <Cell><Data ss:Type="String">vanessayang168@gmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0226432088</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">8月13日&#45;-講師、蔣朝根 8月13日&#45;-講師：蔣智揚（英語English)</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">135</Data></Cell>
+    <Cell><Data ss:Type="String">3650061</Data></Cell>
+    <Cell><Data ss:Type="String">02-19 15:19</Data></Cell>
+    <Cell><Data ss:Type="String">118.161.200.183</Data></Cell>
+    <Cell><Data ss:Type="String">黃麗娟</Data></Cell>
+    <Cell><Data ss:Type="String">hung54312@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0981850656</Data></Cell>
+    <Cell><Data ss:Type="String">家管</Data></Cell>
+    <Cell><Data ss:Type="String">8月13日&#45;-講師、蔣朝根 8月13日&#45;-講師：蔣智揚（英語English)</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">136</Data></Cell>
+    <Cell><Data ss:Type="String">3650064</Data></Cell>
+    <Cell><Data ss:Type="String">02-19 15:20</Data></Cell>
+    <Cell><Data ss:Type="String">118.161.200.183</Data></Cell>
+    <Cell><Data ss:Type="String">劉盈欣</Data></Cell>
+    <Cell><Data ss:Type="String">hung54312@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0976525308</Data></Cell>
+    <Cell><Data ss:Type="String">學生</Data></Cell>
+    <Cell><Data ss:Type="String">8月13日&#45;-講師、蔣朝根 8月13日&#45;-講師：蔣智揚（英語English)</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">137</Data></Cell>
+    <Cell><Data ss:Type="String">3650066</Data></Cell>
+    <Cell><Data ss:Type="String">02-19 15:20</Data></Cell>
+    <Cell><Data ss:Type="String">118.161.200.183</Data></Cell>
+    <Cell><Data ss:Type="String">劉晏勳</Data></Cell>
+    <Cell><Data ss:Type="String">hung54312@yahoo.com.tw</Data></Cell>
+    <Cell><Data ss:Type="String">0981850656</Data></Cell>
+    <Cell><Data ss:Type="String">學生</Data></Cell>
+    <Cell><Data ss:Type="String">8月13日&#45;-講師、蔣朝根 8月13日&#45;-講師：蔣智揚（英語English)</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">118</Data></Cell>
+    <Cell><Data ss:Type="String">3582852</Data></Cell>
+    <Cell><Data ss:Type="String">01-25 07:26</Data></Cell>
+    <Cell><Data ss:Type="String">36.226.175.238</Data></Cell>
+    <Cell><Data ss:Type="String">廖雅欣</Data></Cell>
+    <Cell><Data ss:Type="String">spinelli0604113@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0926065935</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">9月10日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">119</Data></Cell>
+    <Cell><Data ss:Type="String">3582853</Data></Cell>
+    <Cell><Data ss:Type="String">01-25 07:27</Data></Cell>
+    <Cell><Data ss:Type="String">36.226.175.238</Data></Cell>
+    <Cell><Data ss:Type="String">白亦彤</Data></Cell>
+    <Cell><Data ss:Type="String">spinelli0604113@hotmail.com</Data></Cell>
+    <Cell><Data ss:Type="String">0926065935</Data></Cell>
+    <Cell><Data ss:Type="String">無</Data></Cell>
+    <Cell><Data ss:Type="String">9月10日&#45;-講師、蔣朝根</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-&#160;</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <TopRowVisible>120</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>86</ActiveRow>
+     <ActiveCol>9</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

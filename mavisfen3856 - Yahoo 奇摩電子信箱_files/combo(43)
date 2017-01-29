@@ -1,0 +1,1 @@
+YUI.add("_shared_module_offscreen_bin_modal_btn_generic",function(A){A.namespace("ui.Templates");A.ui.Templates._shared_module_offscreen_bin_modal_btn_generic={base:'<button type="button" id="{{btnID}}ModalOverlay" class="btn left right {{default}}" data-action="{{btnID}}">{{btnLabel}}</button>'};},"1.0.0");
